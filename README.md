@@ -18,7 +18,7 @@ This is a Raspbian disk image tuned to work on Pi Deploy (a fork of Linux Deploy
 - Tap **New Deployment**
 - After a few moments the [Raspbian Image](https://github.com/mahmood2395/Raspberry-Pi-OS-64-bit-v11-bullseye/releases/latest/download/raspbian64.tgz) will download and install to your device.
 - When deployment is complete, tap **[  ▷ START ]**  to launch the instance.
-- _(Optional, post-install)_ To install PIXEL Desktop run `pideploy-gui-install` and restart the instance.  Next time you login via RDP you will have a full desktop session with audio support.
+- _(Optional, post-install)_ To install PIXEL Desktop run `sudo apt install raspberrypi-ui-mods` and restart the instance.  Next time you login via RDP you will have a full desktop session with audio support.
 
 -----------------------------------------------------------
 **INSTALLATION COMPLETE    ·    Raspberry Pi OS is running on your Android Device**
