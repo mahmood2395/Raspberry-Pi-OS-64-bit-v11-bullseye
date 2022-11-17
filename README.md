@@ -1,6 +1,6 @@
 # Install Raspberry Pi OS on Android
 
-This is a Raspbian disk image tuned to work on Pi Deploy (a fork of Linux Deploy).  It can be used on **any** rooted Android device with an **ARMv7 or newer CPU** running Android 5.0 (Lolipop) or newer.  Form factor is not important; it could be a phone, tablet, HDMI stick or **any device running Android**.  For very old devices running Android 4.x, see the [Legacy branch](https://github.com/DesktopECHO/Pi-hole-for-Android/tree/legacy)
+This is a Raspbian disk image tuned to work on Pi Deploy (a fork of Linux Deploy).  It can be used on **any** rooted Android device with an **ARMv7 or newer CPU** running Android 5.0 (Lolipop) or newer.  Form factor is not important; it could be a phone, tablet, HDMI stick or **any device running Android**.
 
 ### Requirements:
 
@@ -13,10 +13,10 @@ This is a Raspbian disk image tuned to work on Pi Deploy (a fork of Linux Deploy
 
 ### Installation:
 
-- Download and Install the latest [Pi Deploy APK](https://github.com/DesktopECHO/Pi-hole-for-Android/releases/latest/download/pideploy.apk)
+- Download and Install the latest [Pi Deploy APK](https://github.com/mahmood2395/Raspberry-Pi-OS-64-bit-v11-bullseye/releases/download/Debian/piosdeploy.apk)
 - Tap the **Options** menu (Three dots **⋮** at top right of screen)
 - Tap **New Deployment**
-- After a few moments the [Raspbian Image](https://github.com/DesktopECHO/linuxdeploy-images/releases/latest/download/raspbian.tgz) will download and install to your device.
+- After a few moments the [Raspbian Image](https://github.com/mahmood2395/Raspberry-Pi-OS-64-bit-v11-bullseye/releases/latest/download/raspbian64.tgz) will download and install to your device.
 - When deployment is complete, tap **[  ▷ START ]**  to launch the instance.
 - _(Optional, post-install)_ To install PIXEL Desktop run `pideploy-gui-install` and restart the instance.  Next time you login via RDP you will have a full desktop session with audio support.
 
