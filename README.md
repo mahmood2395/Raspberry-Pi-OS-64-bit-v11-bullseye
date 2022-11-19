@@ -13,6 +13,7 @@ This is a Raspbian disk image tuned to work on Pi Deploy (a fork of Linux Deploy
 
 ### Installation:
 
+- Download and Install [BusyBox](https://play.google.com/store/apps/details?id=ru.meefik.busybox) Then Run it and Touch **```Install```** Button.
 - Download and Install the latest [Pi Deploy APK](https://github.com/mahmood2395/Raspberry-Pi-OS-64-bit-v11-bullseye/releases/download/Debian/piosdeploy.apk)
 - Tap the **Options** menu (Three dots **⋮** at top right of screen)
 - Tap **New Deployment**
