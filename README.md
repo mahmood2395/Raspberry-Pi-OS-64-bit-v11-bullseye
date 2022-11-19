@@ -30,7 +30,7 @@ The Android device's IP is shown at the top of the Linux Deploy main window.  Yo
 
  - From a computer running Linux, connect via SSH **->** **```ssh android@10.73.0.31```**
  
- - Default Password is **->** **```Euphemism-Zigzagged-Polish-Unsaved```**
+ - Your Password Located at **->** **```Touch Bottom Right Setting Icon and Scroll Down to User Password```**
  
  - If your Android device has a display, you can RDP into the Raspberry Pi OS instance (as localhost) by installing the [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) client.
 
