@@ -47,3 +47,5 @@ Adjust QT display scaling: ```~/startwm.sh```
 Change the font size in QTerminal: ```~/.config/qterminal.org/qterminal.ini```
 
 **If your Android device has a battery and was unused for months or years, replace its battery.**  Old, worn, or abused Li-ion batteries can fail when pushed back into service.  Failure appears as a bulge in the battery, or worse a [**_thermal event_**](https://www.urbandictionary.com/define.php?term=unexpected+thermal+event).  A good battery provides [UPS](https://en.wikipedia.org/wiki/Uninterruptible_power_supply) protection for your newly-provisioned Pi-hole.
+
+Thanks to @DesktopECHO For His Awesome Wokrk
